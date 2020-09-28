@@ -1,0 +1,18 @@
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.btn {
+  padding: 15px 25px;
+  box-shadow: 0px 5px 6px #000000;
+  border: none;
+  outline: none;
+}
+.btn:active {
+  box-shadow: 0px 3px 4px #000000;
+  border: none;
+  outline: none;
+}
